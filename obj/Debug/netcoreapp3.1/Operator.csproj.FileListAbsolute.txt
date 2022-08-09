@@ -1,0 +1,14 @@
+/Users/lydiajagdeo/repos/Operator/bin/Debug/netcoreapp3.1/Operator
+/Users/lydiajagdeo/repos/Operator/bin/Debug/netcoreapp3.1/Operator.deps.json
+/Users/lydiajagdeo/repos/Operator/bin/Debug/netcoreapp3.1/Operator.runtimeconfig.json
+/Users/lydiajagdeo/repos/Operator/bin/Debug/netcoreapp3.1/Operator.runtimeconfig.dev.json
+/Users/lydiajagdeo/repos/Operator/bin/Debug/netcoreapp3.1/Operator.dll
+/Users/lydiajagdeo/repos/Operator/bin/Debug/netcoreapp3.1/Operator.pdb
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.csproj.AssemblyReference.cache
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.AssemblyInfoInputs.cache
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.AssemblyInfo.cs
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.csproj.CoreCompileInputs.cache
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.dll
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.pdb
+/Users/lydiajagdeo/repos/Operator/obj/Debug/netcoreapp3.1/Operator.genruntimeconfig.cache
